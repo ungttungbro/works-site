@@ -93,10 +93,9 @@ const photoGalleryData = [
 
 
 const linksOldPageData = [
-    [ 'old homepage' ,'../personal_homepage_html_v4/index.html' ],
-    [ 'old old homepage' ,'../personal_homepage_html_v3/index.html' ],
-    [ 'old old old homepage' ,'../personal_homepage_html_v2/index.html' ],
-    [ 'old old old old homepage' ,'../personal_homepage_html_v1/index.html' ]
+    [ 'old homepage' ,'../' ],
+    [ 'old old homepage' ,'../' ],
+    [ 'old old old homepage' ,'../' ]
 ];
 
 
